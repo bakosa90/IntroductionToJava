@@ -1,3 +1,3 @@
 # IntroductionToJava
-#<a name="1 - Basics of software code development"></a> Section 1
-[Section 1](#section-1)
+# <a name="1 - Basics of software code development"></a> Basics of software code development
+[Section 1] (# 1 - Basics of software code development")
